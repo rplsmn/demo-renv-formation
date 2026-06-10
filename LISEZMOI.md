@@ -1,4 +1,4 @@
-# demo-renv-pdh — le projet « extérieur » de la démo
+# demo-renv-formation — le projet « extérieur » de la démo
 
 Petit projet d'analyse **sans renv au départ** : il joue le rôle d'un projet
 existant, développé hors PDH, qu'on veut rendre **portable** d'un environnement
